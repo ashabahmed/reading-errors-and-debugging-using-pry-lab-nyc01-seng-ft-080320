@@ -1,4 +1,4 @@
-arn# Debugging with Pry
+# Debugging with Pry
 
 ## Learning Goals
 
